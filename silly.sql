@@ -19,11 +19,9 @@ BEGIN
     DECLARE final_streamer_name VARCHAR(255);
     DECLARE final_message_type CHAR(1);
     
-    -- Default values if parameters are NULL
     SET final_streamer_name = COALESCE(streamer_name, 'Doug');
     SET final_message_type = COALESCE(message_type, 'a');
     
-    -- Query the message from the table
     SELECT message
     FROM streamer_messages
     WHERE streamer_name = final_streamer_name 
@@ -32,9 +30,6 @@ END $$
 
 DELIMITER ;
 
--- 4. Example of how to call the stored procedure:
--- Get the message for streamer "Parkzer" with message type 'b'
 CALL GetStreamerMessage('Parkzer', 'b');
 
--- Get the default message for streamer "Doug" with message type 'a'
 CALL GetStreamerMessage('Doug', 'a');
