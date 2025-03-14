@@ -12,4 +12,4 @@ Hey Doug, I'm worried that our friendship is only parasocial, can you acknowledg
 # Different format for other streamers
 Hey Dongal dongle, I'm worried that our friendship is only parasocial, can you acknowledge this message so that it isn't anymore?
 # bald
-Hey dong, I'm worried that our friendship is only parasocial, can you acknowledge this message so that it isn't anymore? Also we know that you're bald and bad at 2d platformers OMEGALUL Dancefrog dancefrog dancefrog this is a paid sponsership
+Hey dong, I'm worried that our friendship is only parasocial, can you acknowledge this message so that it isn't anymore? Also you don't need to keep hiding the fact that yorue bald
